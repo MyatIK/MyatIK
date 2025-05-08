@@ -1,8 +1,8 @@
 Hi, I’m Myat👋
 
-I am a front-end developer with a background in mechanical engineering. 
+I am a full-stack developer with a background in mechanical engineering. 
 
-I currently use React with different UI libraries to create responsive websites and am also learning other languages. 
+I currently use React together with other different UI libraries to create responsive websites and uses Django to create the backend. 
 
 
 
